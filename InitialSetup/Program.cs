@@ -10,6 +10,8 @@ namespace InitialSetup
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("C#"); //Pushing
+            Console.ReadKey();
         }
     }
 }
